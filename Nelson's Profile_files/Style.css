@@ -1,0 +1,108 @@
+
+
+/*
+font-family: 'Monoton', cursive;
+font-family: 'Titan One', cursive;
+font-family: 'Chewy', cursive;
+font-family: 'Bungee Inline', cursive;
+font-family: 'Londrina Outline', cursive;
+font-family: 'Kavoon', cursive;
+*/
+
+/* Image of gif */
+body{
+  background-image: url("https://media.giphy.com/media/OPtpDrpMjjsRCmKcBD/giphy.gif");
+  background-repeat: no-repeat;
+  background-size: cover;
+      }
+
+/*cambiar est tipo de font por uno de google apis*/
+p {
+  color: #FFD185;
+  font-family: 'Kavoon', cursive;
+  text-align: left;
+  font-size: 20px;
+  background: linear-gradient(to left, #4BEDF0, #043738);
+  } 
+/*cambiar este tipo de font por uno de google apis*/
+h2{
+  font-family: 'Chewy', cursive;
+  color: red;
+  }
+
+h3{
+  color: pink;
+  font-family: 'Monoton', cursive;
+  font-size: 28px;
+  text-align: left;
+  }
+/*
+h3{font-family: 'Bungee Inline', cursive;
+  color: 'pink';
+  }*/
+
+/*  Descubrir a donde esta aplicado esta clase */
+div #Home { background-image: url("http://livewallpaperswide.com/wp-content/uploads/2016/11/1480401933_44_abstract-wallpaper.jpg")
+    opacity: 0.9;
+    filter: alpha(opacity=30);
+
+}
+div #About {
+  background-image: url("https://gph.is/15UpYJA")
+    opacity: 0.9;
+    filter: alpha(opacity=30);
+}
+div #Projects {
+ background-image: url("hhttps://gph.is/XKswXB")
+    opacity: 0.9;
+    filter: alpha(opacity=30);
+}
+.nav-item {
+  color: #FFD185;
+  font-family: 'Chewy', cursive;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 62px;
+  width: 139px;
+  text-align: center; 
+}
+
+/*no me gusta esto*/
+/*
+#overflow {
+    background: #FFD185;
+    color: white;
+    padding: 15px;
+    width: 50%;
+    height: 100px;
+    overflow: scroll;
+    border: 1px solid #ccc;
+} */
+.nav{
+  max-width: 100%;
+  background: linear-gradient(to left, #3af5fc, #c300ff);
+}
+
+ h1 { 
+	height: 60%;
+	width: 60%;
+	display: inline-block;
+}
+div {
+    background: linear-gradient(to left, #4BEDF0, #043738);
+    opacity: 0.9;
+    filter: alpha(opacity=30); /* For IE8 and earlier */
+    }
+li{
+  color: #f442ce;
+	font-family: 'Kavoon', cursive;
+	font-size: 90%;
+	text-align: center;
+	display: inline-block;
+	width: 100%;
+	margin: 0;
+}
+
+
+
+

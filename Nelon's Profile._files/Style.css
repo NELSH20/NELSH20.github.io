@@ -1,0 +1,75 @@
+
+/* header */
+
+/* Este cabecero mantiene las imagenes y el  h1 con el bienvenido*/
+
+
+p{
+color: #FFD185;
+  font-family: Lato;
+  text-align: left;
+} 
+
+h1{
+color: rgba(25, 131, 15, 0.48);
+  font-family: Lato;
+  font-size: 28px;
+  text-align: left;
+}
+
+.welcome{ color: rgba(224, 184, 5, 0.95);
+  font-family: Knewave;
+  font-size: 70px;
+  font-weight: 400;
+  line-height: 50px;
+  width: 400px;
+  text-align: center;
+
+}
+li 
+	{
+  color: #FFD185;
+  font-family: Chewy;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 62px;
+  width: 139px;
+  text-align: center;
+}
+
+
+.lista {
+	background-color: rgba(255, 255, 255, 0);
+  border: 6px solid rgba(224, 184, 5, 0.95);
+  border-radius: 5px;
+  width: 423px;
+  height: 50px;
+}
+.grad {
+  background: linear-gradient(#DA0AED
+, #00FFFF)
+}
+
+.grad2 {
+  background: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+}
+
+.header h1 { 
+	height: 60%;
+	width: 60%;
+	display: inline-block;
+}
+.list{
+	font-family: georgia;
+	font-size: 100%;
+	text-align: center;
+	display: inline-block;
+	width: 100%;
+	margin: 0;
+}
+
+/* estas son las casillas que estan separadas y con bordes*/
+
+/* Transparent code for boxes */
+
+
